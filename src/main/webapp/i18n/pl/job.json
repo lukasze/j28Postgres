@@ -1,0 +1,28 @@
+{
+  "j28PostgresApp": {
+    "job": {
+      "home": {
+        "title": "Job",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Dodaj Job",
+        "createOrEditLabel": "Dodaj lub edytuj: Job",
+        "notFound": "No Jobs found"
+      },
+      "created": "Utworzono nowy obiekt typu Job z identyfikatorem {{ param }}",
+      "updated": "Uaktualniono obiekt typu Job z identyfikatorem {{ param }}",
+      "deleted": "Usunięto obiekt typu Job z identyfikatorem {{ param }}",
+      "delete": {
+        "question": "Czy na pewno chcesz usunąć Job {{ id }}?"
+      },
+      "detail": {
+        "title": "Job"
+      },
+      "id": "ID",
+      "jobTitle": "Job Title",
+      "minSalary": "Min Salary",
+      "maxSalary": "Max Salary",
+      "task": "Task",
+      "employee": "Employee"
+    }
+  }
+}
