@@ -1,0 +1,26 @@
+{
+  "j28PostgresApp": {
+    "task": {
+      "home": {
+        "title": "Task",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Dodaj Task",
+        "createOrEditLabel": "Dodaj lub edytuj: Task",
+        "notFound": "No Tasks found"
+      },
+      "created": "Utworzono nowy obiekt typu Task z identyfikatorem {{ param }}",
+      "updated": "Uaktualniono obiekt typu Task z identyfikatorem {{ param }}",
+      "deleted": "Usunięto obiekt typu Task z identyfikatorem {{ param }}",
+      "delete": {
+        "question": "Czy na pewno chcesz usunąć Task {{ id }}?"
+      },
+      "detail": {
+        "title": "Task"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "job": "Job"
+    }
+  }
+}
